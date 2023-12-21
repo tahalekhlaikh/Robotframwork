@@ -1,0 +1,8 @@
+.cache
+.git
+.pytest_cache
+*.ipynb
+*.log
+*.pynb
+__pycache__
+.coverage
